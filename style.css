@@ -88,9 +88,9 @@ ul.buttons li a strong {
 }
 
 ul.social {
-    margin: 15px auto;
+    margin: 20px auto 10px;
     flex-wrap: wrap;
-    gap: 15px 25px;
+    gap: 15px 10px;
     justify-content: center;
 }
 ul.social li a {
